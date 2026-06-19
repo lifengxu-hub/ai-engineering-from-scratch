@@ -1,3 +1,4 @@
+# UPDATE MY PROGRESS
 <p align="center">
   <img src="assets/banner.svg" alt="AI Engineering from Scratch — reference manual banner" width="100%">
 </p>
